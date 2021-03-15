@@ -1,0 +1,3 @@
+com\docker\war\WarApplication.class
+com\docker\war\controller\Controller.class
+com\docker\war\ServletInitializer.class
